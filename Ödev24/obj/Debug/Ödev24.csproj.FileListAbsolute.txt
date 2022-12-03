@@ -1,0 +1,6 @@
+C:\Users\simao\source\repos\App1\Ödev24\bin\Debug\Ödev24.exe.config
+C:\Users\simao\source\repos\App1\Ödev24\bin\Debug\Ödev24.exe
+C:\Users\simao\source\repos\App1\Ödev24\bin\Debug\Ödev24.pdb
+C:\Users\simao\source\repos\App1\Ödev24\obj\Debug\Ödev24.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\App1\Ödev24\obj\Debug\Ödev24.exe
+C:\Users\simao\source\repos\App1\Ödev24\obj\Debug\Ödev24.pdb

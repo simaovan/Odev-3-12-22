@@ -1,0 +1,7 @@
+C:\Users\simao\source\repos\App1\Ödev22\bin\Debug\Ödev22.exe.config
+C:\Users\simao\source\repos\App1\Ödev22\bin\Debug\Ödev22.exe
+C:\Users\simao\source\repos\App1\Ödev22\bin\Debug\Ödev22.pdb
+C:\Users\simao\source\repos\App1\Ödev22\obj\Debug\Ödev22.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\App1\Ödev22\obj\Debug\Ödev22.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\App1\Ödev22\obj\Debug\Ödev22.exe
+C:\Users\simao\source\repos\App1\Ödev22\obj\Debug\Ödev22.pdb
